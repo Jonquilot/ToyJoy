@@ -1,0 +1,185 @@
+:root {
+  --color1: #fffed6;
+  --color2: #f0d6ff;
+}
+
+
+.nav-text {
+  font-size: 1.25rem;
+  font-family: "Shantell Sans", cursive;
+  font-weight:bolder;
+  color:#378eff;
+  padding: 20px 20px;
+}
+
+.page-text {
+  font-family: "Shantell Sans", cursive;
+  color:#378eff;
+}
+
+.nav-current {
+  font-size: 1.75rem;
+  font-family: "Shantell Sans", cursive;
+  font-weight: bold;
+  color:#006eff;
+  text-decoration: underline;
+  padding: 20px 20px;
+}
+
+.nav-container {
+  border-radius: 10px;
+  background: #ffcefb;
+  text-align: center
+}
+
+.form-container {
+  border-radius: 10px;
+  background: #ffcefb;
+  text-align: center;
+  margin: 20px 20px 20px 20px
+}
+
+.nav-icon {
+  height: 10vh;
+  width: 10vh;
+  align-self: center;
+}
+
+.item-container {
+  border-radius: 10px;
+  background: #ffcefb;
+  text-align: center;
+  margin: 50px 30px 30px 30px;
+  width: 30px;
+}
+
+.item-container:hover {
+  border: 7px solid #ff6ff3;
+}
+
+.main-container {
+  padding: 50px 30px 30px 30px;
+  justify-self: center;
+}
+
+.test {
+  align-items: center;
+  justify-content: center;
+}
+
+.product-card {
+  padding: 10px 10px 10px 10px;
+  border-radius: 10px;
+  border-color: #fa9bf2;
+}
+
+.input-container {
+  margin: 10px 10px 10px 10px;
+  justify-self: center;
+}
+
+.product-head {
+  font-size: 1.5rem;
+  font-family: "Shantell Sans", cursive;
+  font-weight: bold;
+  color:#006eff;
+  padding: 10px 10px 0px 10px;
+}
+
+.product-text {
+  font-size: 1rem;
+  font-family: "Shantell Sans", cursive;
+  font-weight: 600;
+  color: #378eff;
+  padding: 10px 10px 0px 10px;
+}
+
+.agrement {
+  font-size: 1.75rem;
+  font-family: "Shantell Sans", cursive;
+  font-weight: bold;
+  color:#006eff;
+  padding: 20px 20px;
+}
+
+.footer-container {
+  background: #ffcefb;
+  text-align: center;
+  width: 100%;
+}
+
+.forms {
+  width: 100vh;
+}
+
+.text-container {
+  border-radius: 10px;
+  background: #ffcefb;
+  text-align: center;
+  margin: 50px 30px 30px 30px;
+  width: 100vh;
+}
+
+.text-head {
+  font-size: 3rem;
+  font-family: "Shantell Sans", cursive;
+  font-weight: bold;
+  color:#006eff;
+  padding: 10px 10px 0px 10px;
+}
+
+.text-main {
+  font-size: 1rem;
+  font-family: "Shantell Sans", cursive;
+  font-weight: 600;
+  color: #378eff;
+  padding: 10px 10px 0px 10px;
+}
+
+.comment-container {
+  border-radius: 10px;
+  background: #d4d4d4;
+  text-align: center;
+  margin: 50px 30px 30px 30px;
+  width: 100vh;
+  padding: 10px 10px 10px 10px;
+}
+
+.comment-icon {
+  border-radius: 50%;
+  float: left;
+}
+
+.text-comment {
+  font-size: 1.5rem;
+  font-family: "Shantell Sans", cursive;
+  font-weight: 600;
+  color: #378eff;
+  padding: 10px 10px 0px 10px;
+}
+
+table, td {
+  margin-left: auto;
+  margin-right: auto;
+  width: 3em
+}
+
+.selector-for-some-widget {
+  box-sizing: content-box;
+}
+
+body {
+  background: linear-gradient(to right,  #ffdf8f 0%,#ffe8f8 49%,#ffe8f8 49%);
+}
+
+.nav-icon {
+  padding: 5px 5px 5px 5px;
+}
+
+.nav-custom {
+  background-color: #e8a6ee;
+  min-height: 50vh;
+  display: flex;
+}
+
+
